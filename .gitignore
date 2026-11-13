@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+brave_extensions_*.json
+brave_extensions_shared.md
+brave_scan.log
+brave_monitor_logs/
+netlog.json
+crash_artifact_*.json
+monitor_events.jsonl
